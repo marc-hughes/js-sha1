@@ -1,7 +1,7 @@
 {
-  "name": "js-sha1",
+  "name": "js-sha1-webpack",
   "version": "0.3.0",
-  "description": "A simple SHA1 hash function for JavaScript supports UTF-8 encoding.",
+  "description": "A simple SHA1 hash function for JavaScript supports UTF-8 encoding. Works with webpack.",
   "main": "src/sha1.js",
   "devDependencies": {
     "expect.js": "~0.3.1",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/emn178/js-sha1.git"
+    "url": "https://github.com/marc-hughes/js-sha1"
   },
   "keywords": [
     "sha",
@@ -23,9 +23,9 @@
     "HMAC"
   ],
   "license": "MIT",
-  "author": "emn178 <emn178@gmail.com>",
-  "homepage": "https://github.com/emn178/js-sha1",
+  "author": "Marc Hughes <marc.hughes@gmail.com>",
+  "homepage": "https://github.com/marc-hughes/js-sha1",
   "bugs": {
-    "url": "https://github.com/emn178/js-sha1/issues"
+    "url": ""
   }
 }

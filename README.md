@@ -1,7 +1,14 @@
+Forked from: https://github.com/marc-hughes/js-sha1
+
+Two changes
+
+1. Detects nodejs differently, so it works with webpack2 builds
+2. Added optional parameter to get output as numeric array instead of hex string
+
+
 # js-sha1
-[![Build Status](https://travis-ci.org/emn178/js-sha1.svg?branch=master)](https://travis-ci.org/emn178/js-sha1)
-[![Coverage Status](https://coveralls.io/repos/emn178/js-sha1/badge.svg?branch=master)](https://coveralls.io/r/emn178/js-sha1?branch=master)  
-[![NPM](https://nodei.co/npm/js-sha1.png?stars&downloads)](https://nodei.co/npm/js-sha1/)  
+[![Build Status](https://travis-ci.org/marc-hughes/js-sha1.svg?branch=master)](https://travis-ci.org/marc-hughes/js-sha1)
+
 A simple SHA1 hash function for JavaScript supports UTF-8 encoding.
 
 ## Demo
