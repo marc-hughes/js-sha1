@@ -7,6 +7,4 @@ before_install:
   - npm install coveralls -g
   - npm install mocha-lcov-reporter -g
 script: npm run-script test
-branches:
-  only:
-    - master
+
