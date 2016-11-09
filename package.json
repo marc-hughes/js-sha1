@@ -27,5 +27,7 @@
   "homepage": "https://github.com/marc-hughes/js-sha1",
   "bugs": {
     "url": ""
+  },
+  "dependencies": {    
   }
 }
